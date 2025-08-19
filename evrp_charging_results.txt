@@ -1,0 +1,187 @@
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+- The maximum number of vehicles allowed (20) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 5. You may reduce max_vehicles to 5 for optimal resource use.
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+- The maximum number of vehicles allowed (20) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 5. You may reduce max_vehicles to 5 for optimal resource use.
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+- The maximum number of vehicles allowed (20) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 5. You may reduce max_vehicles to 5 for optimal resource use.
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+- The maximum number of vehicles allowed (20) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 5. You may reduce max_vehicles to 5 for optimal resource use.
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+- The maximum number of vehicles allowed (20) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 5. You may reduce max_vehicles to 5 for optimal resource use.
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+- The maximum number of vehicles allowed (12) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 4. You may reduce max_vehicles to 4 for optimal resource use.
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+- The maximum number of vehicles allowed (30) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 4. You may reduce max_vehicles to 4 for optimal resource use.
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+- The maximum number of vehicles allowed (20) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 5. You may reduce max_vehicles to 5 for optimal resource use.
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+- The maximum number of vehicles allowed (20) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 1. You may reduce max_vehicles to 1 for optimal resource use.
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+- The maximum number of vehicles allowed (20) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 4. You may reduce max_vehicles to 4 for optimal resource use.
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+- The maximum number of vehicles allowed (20) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 4. You may reduce max_vehicles to 4 for optimal resource use.
+
+=== Scenario Diagnosis and Recommendations ===
+
+=== Scenario Diagnosis and Recommendations ===
+- Customer 5 (demand 25.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 7 (demand 22.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 8 (demand 30.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 9 (demand 28.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 12 (demand 45.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 13 (demand 55.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 14 (demand 20.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 15 (demand 60.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 16 (demand 30.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 17 (demand 25.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 18 (demand 10.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 19 (demand 15.0) is unserved. Reason: Battery capacity (100.0) too low to reach (distance 93.94 km, need 93.9 > usable 90.0).
+  Recommendation: Increase battery to >= 197.9 or add a charging station nearer (current nearest None at inf km).
+- Customer 20 (demand 18.0) is unserved. Reason: Battery capacity (100.0) too low to reach (distance 100.62 km, need 100.6 > usable 90.0).
+  Recommendation: Increase battery to >= 211.2 or add a charging station nearer (current nearest None at inf km).
+- Customer 21 (demand 22.0) is unserved. Reason: Battery capacity (100.0) too low to reach (distance 99.57 km, need 99.6 > usable 90.0).
+  Recommendation: Increase battery to >= 209.1 or add a charging station nearer (current nearest None at inf km).
+- Customer 22 (demand 30.0) is unserved. Reason: Battery capacity (100.0) too low to reach (distance 99.49 km, need 99.5 > usable 90.0).
+  Recommendation: Increase battery to >= 209.0 or add a charging station nearer (current nearest None at inf km).
+- Customer 23 (demand 40.0) is unserved. Reason: Battery capacity (100.0) too low to reach (distance 101.14 km, need 101.1 > usable 90.0).
+  Recommendation: Increase battery to >= 212.3 or add a charging station nearer (current nearest None at inf km).
+- Customer 24 (demand 35.0) is unserved. Reason: Battery capacity (100.0) too low to reach (distance 100.57 km, need 100.6 > usable 90.0).
+  Recommendation: Increase battery to >= 211.1 or add a charging station nearer (current nearest None at inf km).
+- Customer 25 (demand 50.0) is unserved. Reason: Battery capacity (100.0) too low to reach (distance 100.00 km, need 100.0 > usable 90.0).
+  Recommendation: Increase battery to >= 210.0 or add a charging station nearer (current nearest None at inf km).
+- Customer 26 (demand 45.0) is unserved. Reason: Battery capacity (100.0) too low to reach (distance 98.48 km, need 98.5 > usable 90.0).
+  Recommendation: Increase battery to >= 207.0 or add a charging station nearer (current nearest None at inf km).
+- Customer 27 (demand 20.0) is unserved. Reason: Battery capacity (100.0) too low to reach (distance 97.95 km, need 97.9 > usable 90.0).
+  Recommendation: Increase battery to >= 205.9 or add a charging station nearer (current nearest None at inf km).
+- Customer 28 (demand 15.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 29 (demand 18.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 30 (demand 12.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 31 (demand 10.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 32 (demand 14.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 33 (demand 16.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 34 (demand 20.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 35 (demand 8.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 36 (demand 12.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 37 (demand 18.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 38 (demand 24.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 39 (demand 28.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 40 (demand 60.0) is unserved. Reason: Battery capacity (100.0) too low to reach (distance 106.30 km, need 106.3 > usable 90.0).
+  Recommendation: Increase battery to >= 222.6 or add a charging station nearer (current nearest None at inf km).
+- Customer 41 (demand 70.0) is unserved. Reason: Battery capacity (100.0) too low to reach (distance 116.18 km, need 116.2 > usable 90.0).
+  Recommendation: Increase battery to >= 242.4 or add a charging station nearer (current nearest None at inf km).
+- Customer 44 (demand 40.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- The maximum number of vehicles allowed (2) is less than the minimum needed (12) to serve all demand.
+  Recommendation: Increase max_vehicles to at least 12.
+
+=== Scenario Diagnosis and Recommendations ===
+- Customer 14 (demand 20.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 18 (demand 10.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 19 (demand 15.0) is unserved. Reason: Battery capacity (100.0) too low to reach (distance 93.94 km, need 93.9 > usable 90.0).
+  Recommendation: Increase battery to >= 197.9 or add a charging station nearer (current nearest None at inf km).
+- Customer 20 (demand 18.0) is unserved. Reason: Battery capacity (100.0) too low to reach (distance 100.62 km, need 100.6 > usable 90.0).
+  Recommendation: Increase battery to >= 211.2 or add a charging station nearer (current nearest None at inf km).
+- Customer 21 (demand 22.0) is unserved. Reason: Battery capacity (100.0) too low to reach (distance 99.57 km, need 99.6 > usable 90.0).
+  Recommendation: Increase battery to >= 209.1 or add a charging station nearer (current nearest None at inf km).
+- Customer 27 (demand 20.0) is unserved. Reason: Battery capacity (100.0) too low to reach (distance 97.95 km, need 97.9 > usable 90.0).
+  Recommendation: Increase battery to >= 205.9 or add a charging station nearer (current nearest None at inf km).
+- Customer 28 (demand 15.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 29 (demand 18.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 30 (demand 12.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 31 (demand 10.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 32 (demand 14.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 33 (demand 16.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- Customer 38 (demand 24.0) is unserved. Reason: Route construction or vehicle/merge limits.
+  Recommendation: Increase max_vehicles or adjust scenario parameters (capacity, charging).
+- The maximum number of vehicles allowed (20) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 12. You may reduce max_vehicles to 12 for optimal resource use.
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+- The maximum number of vehicles allowed (90) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 12. You may reduce max_vehicles to 12 for optimal resource use.
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+- The maximum number of vehicles allowed (700) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 18. You may reduce max_vehicles to 18 for optimal resource use.
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+- The maximum number of vehicles allowed (90) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 6. You may reduce max_vehicles to 6 for optimal resource use.
+
+=== Scenario Diagnosis and Recommendations ===
+All customers with positive demand were served. Your scenario and input are feasible!
+- The maximum number of vehicles allowed (88) is more than required for this scenario.
+  Note: The minimum number of vehicles needed to serve all demand is 7. You may reduce max_vehicles to 7 for optimal resource use.

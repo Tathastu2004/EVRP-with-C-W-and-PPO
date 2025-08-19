@@ -1,0 +1,26 @@
+
+=== PPO Agent Online Run (Detailed) ===
+PPO Route 1: [0, 27, 20, 0], Demand Served: 75.0 kilogram, Time: 3.320092236423027 hour hour, Battery Used: 99.60276709269081 watt_hour
+PPO Route 2: [0, 4, 12, 36, 0], Demand Served: 63.0 kilogram, Time: 3.7268686694794333 hour hour, Battery Used: 111.80606008438299 watt_hour
+PPO Route 3: [0, 18, 0], Demand Served: 0 kilogram, Time: 2.848001248439177 hour hour, Battery Used: 85.44003745317531 watt_hour
+PPO Route 4: [0, 8, 39, 0], Demand Served: 12.0 kilogram, Time: 3.6295524420443215 hour hour, Battery Used: 108.88657326132966 watt_hour
+PPO Route 5: [0, 2, 7, 3, 11, 9, 25, 0], Demand Served: 113.0 kilogram, Time: 3.7588589598433266 hour hour, Battery Used: 112.7657687952998 watt_hour
+PPO Route 6: [0, 35, 37, 5, 33, 0], Demand Served: 32.0 kilogram, Time: 3.978962937064452 hour hour, Battery Used: 119.36888811193354 watt_hour
+PPO Route 7: [0, 31, 29, 19, 0], Demand Served: 104.0 kilogram, Time: 4.296540317169631 hour hour, Battery Used: 128.8962095150889 watt_hour
+PPO Route 8: [0, 10, 38, 0], Demand Served: 25.0 kilogram, Time: 2.918794466543307 hour hour, Battery Used: 87.56383399629922 watt_hour
+PPO Route 9: [0, 30, 32, 0], Demand Served: 29.0 kilogram, Time: 2.568988239491126 hour hour, Battery Used: 77.06964718473378 watt_hour
+PPO Route 10: [0, 21, 26, 0], Demand Served: 28.0 kilogram, Time: 2.7246755992057654 hour hour, Battery Used: 81.74026797617296 watt_hour
+PPO Route 11: [0, 23, 28, 0], Demand Served: 31.0 kilogram, Time: 2.7516959548820648 hour hour, Battery Used: 82.55087864646194 watt_hour
+PPO Route 12: [0, 34, 13, 0], Demand Served: 80.0 kilogram, Time: 3.3130832468225577 hour hour, Battery Used: 99.39249740467673 watt_hour
+PPO Route 13: [0, 22, 15, 0], Demand Served: 36.0 kilogram, Time: 2.8551398819309988 hour hour, Battery Used: 85.65419645792996 watt_hour
+PPO Route 14: [0, 16, 14, 0], Demand Served: 38.0 kilogram, Time: 2.898107817217871 hour hour, Battery Used: 86.94323451653614 watt_hour
+PPO Route 15: [0, 1, 24, 0], Demand Served: 50.0 kilogram, Time: 1.885618083164127 hour hour, Battery Used: 56.56854249492381 watt_hour
+PPO Route 16: [0, 17, 0], Demand Served: 14.0 kilogram, Time: 2.63523138347365 hour hour, Battery Used: 79.05694150420949 watt_hour
+PPO Route 17: [0, 6, 0], Demand Served: 45.0 kilogram, Time: 1.2 hour hour, Battery Used: 18.0 watt_hour
+Total Vehicles (PPO): 17
+Total Demand Served (PPO): 775.0 kilogram
+Total Time (PPO): 51.310211483194834 hour hour
+Total Battery Consumed (PPO): 1521.3063444958452 watt_hour
+Total Reward: -6989.610261727428
+Steps Taken: 39
+Charging Events: 0
